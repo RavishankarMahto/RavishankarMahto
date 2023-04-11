@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravishankar-kumar-ba1620222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravishankar kumar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ravishankar.raj.75033?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravishankar raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ravishankar-kumar-ba1620222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravishankar kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ravishankar.raj.75033?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravishankar raj" height="30" width="40" /></a>
 <a href="https://instagram.com/ravis_hankar9835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravis_hankar9835" height="30" width="40" /></a>
 </p>
 
