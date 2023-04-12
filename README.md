@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Ko-fi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishankarmahto&show_icons=true&locale=en&layout=compact" alt="ravishankarmahto" /></p>
+<p><img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishankarmahto&show_icons=true&locale=en&layout=compact" alt="ravishankarmahto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravishankarmahto&show_icons=true&locale=en" alt="ravishankarmahto" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravishankarmahto&show_icons=true&locale=en" alt="ravishankarmahto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishankarmahto&" alt="ravishankarmahto" /></p>
+<p><img align="upper right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishankarmahto&" alt="ravishankarmahto" /></p>
