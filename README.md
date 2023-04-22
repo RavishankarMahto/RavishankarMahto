@@ -2,6 +2,20 @@
 <h3 align="center">A passionate frontend developer and computer science student</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
+<div align="left" >
+  <a href="https://twitter.com/i/professionals" >
+    <img
+      src="https://img.shields.io/twitter/follow/pwn_b0y?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+    
+  </a>
+  <a href="https://www.linkedin.com/in/ravishankar-kumar-ba1620222" >
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishankarmahto&label=Profile%20views&color=0e75b6&style=flat" alt="ravishankarmahto" /> </p>
 
