@@ -1,5 +1,5 @@
 <h1 align="center">Hello Folks 👋, I'm Ravishankar Mahto</h1>
-<h3 align="center">A passionate frontend developer and computer science student</h3>
+<h3 align="center">A passionate Java Full Stack Developer and computer science student</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
 <div align="left" >
