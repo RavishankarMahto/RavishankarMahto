@@ -292,16 +292,16 @@ Data analysis and machine learning project developed using IBM Watson Studio.
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p>
-<img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishankarmahto&show_icons=true&locale=en&layout=compact" alt="ravishankarmahto" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravishankarmahto&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravishankar's GitHub Stats" />
 </p>
 
-<p>
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=ravishankarmahto&show_icons=true&locale=en" alt="ravishankarmahto" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravishankarmahto&layout=compact&theme=tokyonight&hide_border=true" alt="Ravishankar's Top Languages" />
 </p>
 
-<p>
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishankarmahto" alt="ravishankarmahto" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ravishankarmahto&theme=tokyonight&hide_border=true" alt="Ravishankar's GitHub Streak" />
 </p>
 
 <br clear="both">
